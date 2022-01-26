@@ -5,7 +5,6 @@ import "./App.scss";
 import Header from "./components/Header";
 const Footer = lazy(() => import("./components/Footer"));
 const About = lazy(() => import("./components/About"));
-const Experience = lazy(() => import("./components/Experience"));
 const Projects = lazy(() => import("./components/Projects"));
 const Skills = lazy(() => import("./components/Skills"));
 
@@ -93,12 +92,6 @@ class App extends Component {
             resumeBasicInfo={this.state.resumeData.basic_info}
           />
         </Suspense>
-        {/* <Suspense fallback={<p />}>
-          <Experience
-            resumeExperience={this.state.resumeData.experience}
-            resumeBasicInfo={this.state.resumeData.basic_info}
-          />
-        </Suspense> */}
         <Suspense fallback={<p />}>
           <Footer sharedBasicInfo={this.state.sharedData.basic_info} />
         </Suspense>
