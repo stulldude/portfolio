@@ -15,8 +15,8 @@
         "startDate": "2021",
         "description": "Fireside was the result of my first hackathon. The theme of the hackathon was to build an app that is accessible and holiday themed. Our group came up with an idea to connect older folks and others who may face lonelyness with others. Fireside ended up winning both the hackathon and the community pick.",
         "images": [
-          "images/portfolio/fireside/lp_small.jpeg",
-          "images/portfolio/fireside/signup_small.jpeg"
+          "images/portfolio/Fireside/lp_small.jpeg",
+          "images/portfolio/Fireside/signup_small.jpeg"
         ],
         "url": "https://github.com/stulldude/Simon",
         "technologies": [
