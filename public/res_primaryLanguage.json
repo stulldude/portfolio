@@ -1,0 +1,140 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "I'm William Stull II, a guitar instructor/live sound engineer turned software engineer. I have enjoyed building my own computers since I was 12, now I enjoy building my own software. I started self studying computer science using Forest Knight's Open Source CS degree in January 2019, and completed General Assembly's Software Engineering Immersive in August 2021. I enjoy bringing designs to life using React and material ui.",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Fireside",
+        "startDate": "2021",
+        "description": "Fireside was the result of my first hackathon. The theme of the hackathon was to build an app that is accessible and holiday themed. Our group came up with an idea to connect older folks and others who may face lonelyness with others. Fireside ended up winning both the hackathon and the community pick.",
+        "images": [
+          "images/portfolio/fireside/lp_small.jpeg",
+          "images/portfolio/fireside/signup_small.jpeg"
+        ],
+        "url": "https://github.com/stulldude/Simon",
+        "technologies": [
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          },
+          {
+            "class": "devicon-SASS-plain",
+            "name": "SASS"
+          },
+          {
+            "class": "devicon-mongodb-plain",
+            "name": "MongoDB"
+          },
+          {
+            "class": "devicon-express-original",
+            "name": "Express"
+          }
+        ]
+      },
+      {
+        "title": "Templ8s",
+        "startDate": "2021",
+        "description": "Templ8s is a MERN fitness application I built to make following a workout as simple as tapping along. Templ8s creates interactive buttons to record weight, reps, and sets easily so you never have to think \"how much did did I lift last time? How many reps did I do on my last set, four? Five? I remember struggling...\" It also creates a graph of each users progress.",
+        "images": [
+          "images/portfolio/templ8s/lp_small.jpeg",
+          "images/portfolio/templ8s/workout_cards_small.jpeg"
+        ],
+        "url": "https://github.com/stulldude/REACT-Workout-App",
+        "technologies": [
+          {
+            "class": "devicon-mongodb-plain",
+            "name": "MongoDB"
+          },
+          {
+            "class": "devicon-express-original",
+            "name": "Express"
+          },
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "NodeJS"
+          }
+        ]
+      },
+      {
+        "title": "Squad Bot",
+        "startDate": "2020",
+        "description": "Discord bot to notify user created \"squads\" that other users can join. Utilized DynamoDB to for access to squads and EC2 for on the fly hosting. Next step is utilizing a daemon for 24/7 access.",
+        "images": [
+          "images/portfolio/squadbot/discord_logo_small.jpeg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-amazonwebservices-plain",
+            "name": "EC2"
+          },
+          {
+            "class": "devicon-amazonwebservices-plain",
+            "name": "DynamoDB"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "Beyond 2 Twenty",
+        "startDate": "2021",
+        "description": "Python script that uses Selenium webdriver to listen in on DnDBeyond campaign rolls and send results in Roll20 campaigns. Next up in development is creating a more readable result post in Roll20.",
+        "images": [
+          "images/portfolio/beyond220/code_small.jpeg"
+        ],
+        "url": "https://github.com/stulldude/BeyondTo20",
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "Python3"
+          },
+          {
+            "class": "selenium",
+            "name": "Selenium"
+          }
+        ]
+      },
+      {
+        "title": "Simon",
+        "startDate": "2021",
+        "description": "Vanilla JS/CSS/HTML recreation of the classic game Simon. Utilizes async await patterns and also features self created svg shapes and sounds.",
+        "images": [
+          "images/portfolio/simon/lp_small.jpeg"
+        ],
+        "url": "https://github.com/stulldude/Simon",
+        "technologies": [
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
+          }
+        ]
+      }
+    ],
+    "experience": []
+  }

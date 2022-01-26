@@ -1,0 +1,63 @@
+{
+    "basic_info": {
+      "name": "William Stull II",
+      "titles": [ "Front-end Developer", "Software Engineer" ],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/stulldude",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/wsii",
+          "class": "fab fa-linkedin"
+        }
+      ],
+      "image": "myProfile.jpg"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain",
+          "level": "95"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain",
+          "level": "95"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "70"
+        },
+        {
+          "name": "Python3",
+          "class": "devicon-python-plain",
+          "level": "65"
+        },
+        {
+          "name": "Material",
+          "class": "devicon-materialui-plain",
+          "level": "85"
+        },
+        {
+          "name": "React",
+          "class": "devicon-react-plain",
+          "level": "85"
+        },
+        {
+          "name": "PostgreSQL",
+          "class": "devicon-postgresql-plain",
+          "level": "60"
+        },
+        {
+          "name": "MongoDB",
+          "class": "devicon-mongodb-plain",
+          "level": "60"
+        }
+      ]
+    }
+  }
