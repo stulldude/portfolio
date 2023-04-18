@@ -11,6 +11,34 @@
     },
     "projects": [
       {
+        "title": "Bilingual Daycare Website",
+        "startDate": "2022",
+        "description": "My first client requested a simple design and website for her new small business. Since her clients oftentimes only speak spanish, I made sure the website was bilingual and could change between languages without refreshing. With her new online presence and her not so strong technical skills, I opted to utilize SMTP and form data to send emails with basic information new clients may have for her. This backend of the code utilized EC2, Docker, and a Node.js Express server to reverse proxy incoming http & https requests.",
+        "images": [
+          "images/portfolio/fireside/daycare_frontpage.jpeg",
+          "images/portfolio/bilingualDaycare/daycare_frontpage.jpeg"
+        ],
+        "url": "https://partidafamilydaycare.com",
+        "technologies": [
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "NodeJS"
+          },
+          {
+            "class": "devicon-amazonwebservices-plain",
+            "Name": "EC2"
+          },
+          {
+            "class": "devicon-express-original",
+            "name": "Express"
+          }
+        ]
+      },
+      {
         "title": "Fireside",
         "startDate": "2021",
         "description": "Fireside was the result of my first hackathon. The theme of the hackathon was to build an app that is accessible and holiday themed. Our group came up with an idea to connect older folks and others who may face lonelyness with others. Fireside ended up winning both the hackathon and the community pick.",
